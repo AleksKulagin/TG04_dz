@@ -6,7 +6,7 @@ from aiogram.types import Message, FSInputFile, CallbackQuery
 from keyboard import get_main_menu_keyboard, get_links_keyboard, get_dynamic_keyboard, get_extended_dynamic_keyboard
 
 # Указываем токен вашего бота
-API_TOKEN = '7942383998:AAG-ltaXmaVbtYdQAXknlwEFW42Dt1gDjqM'
+API_TOKEN = ''
 
 # Настраиваем логирование
 logging.basicConfig(level=logging.INFO)
